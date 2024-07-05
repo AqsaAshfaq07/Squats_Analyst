@@ -1,2 +1,2 @@
-## pip install -r requirements.txt
-## python squats.py
+# pip install -r requirements.txt
+# python squats.py
